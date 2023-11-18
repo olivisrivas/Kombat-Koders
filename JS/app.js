@@ -1,0 +1,3 @@
+/*
+    Este es nuestro archivo de JavaScript
+*/
